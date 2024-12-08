@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-chikaramanik",
+  "private_key_id": "954217ac47eda3c69c1224af3ce2aeae4ca29829",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCZOqg1bug0ROcW\nBSpoXXgBJNek0NFCLqklq9RLMhl0eqwXNvnf5ZVT2a391wITJ0Zu5vF0ewH+1sAQ\nVA8emorvMmHiWHbMAb977njYPu7E0Xk0m/XQgieQLDYqRGYNe88/9NzyBK0CAkOK\nuWuBLYrly3wx9pPc6bFBaYcJ9FaUs26ZkzfT9qi/ibMTrxWDo5DT/uyCIqQfbDFG\n70GHN8fHSRXhk24ehHAFLnMlzQBey+41GtjxZRmNSpripChEphra4+bh0aDY6+5B\nS+JC8K7xKCG+WQqhg69/9xoHnNS+OposIdputb+y2ZmwdCLVPdJPRuWcbs6HCu6s\nDFHpoqLjAgMBAAECggEAK4rzJOgE3WGdJ3FFWU4CXZTaINBkPsHiuD1JgSrV9/cq\nMxigzkK/+gl4O5OfV9EH31kKUVbpPMFK5/jzKPeytoFjNn58F8IBZ5bfSVgs4spB\n/rS5GEz8MCiYJc+1DmzZ+qs7JB03CsSY6/F//r/x4hY+jzYqU5MnF1cFFEuWVP/t\nvaobHRdh/iInGg7EQNwmV/Pv9nsJJtqWtVkXQi4DB2rtviU5HDjKm2AF+gaDxBxe\npCH97jh1I/cvW+EL1sX4VlL8VmxaohXNvs937xwHHwY1rPLqvFjZcDwXHGn8ExL/\nyCHyBwS5jV3zG9qodj5bHiT+M39o4IehXiDaU5Er/QKBgQDKPJ38nXc0HHDERR/Y\nLpUajSEzL3EGoyCp3h33+vuY4zLMKVynBw5IxQvun2Oos83+g8CxVxTGc4trLacX\n5LAifJILwTtt0abVWoVw2yVt7ld593T9VaPfu0GzGKQaANCt5eX4B9116woK34fl\nYjQ+d1TERp6TQ//HV8lka1qbvQKBgQDB9skU+3qp+L2EqeaLIh8q5hjFdkFCg/nN\nAbYDfLnOQArAt+QzlxTY44TU5c1v9l+gTWOOX1S2JiJqMFOUKTL3hN29m92hSVde\nPfFlZ2/k9a7Z3YzKEU0TQOrwM6OIDOnFMUSeKOwWpNO1o0EzPoeojU9bs3+M9mb4\n0NUKztHTHwKBgBjUJFlVQ8NEEpwmGGjEH04pMYBFPM0hzerM+ETvrV/x1NS350Yi\nWaCZgIOFUgjuOkYbCtc657QNj3pTGoaWbwFs5clHqfIroR3khSl73jaG4np45QYN\nM5dOOByy08LVgsk2xmsTHB9UAeGf2+FPkzZwFBocyW8vFAH3RyRrAa7JAoGAJGHr\nI/Fr99f9jJXl9bEn0X8ppFhjM1vYDnlEr/DEVYizu6SCvJ6ZPXmn39tfJqI7G7GI\nfBsro6MRj4OTGdaEheM5SKik8Oz142qRDilR1suyyZECKKEIKRVjPD0jbpClhOSR\n72zTpAe04nxF7ZvMDHS9LwFDaqiJdiCN5aIXv5cCgYAaxZOupFePS+XLwPGIdaii\nqdxlhglVWeAZR+WiQexStjCK7ZPZ7AFtfwsB7wXOiV8OC/4EcmBYY2BLQ4zvFgQ4\njdvjFN25T1eGUcRsbQafpuCjulwTiha2ZNCjNs8p9gwxsr4idE233T7c4CHydUId\n5bvoAeGU+lnTfqiRFbIthA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firestore-cancer-predict@submissionmlgc-chikaramanik.iam.gserviceaccount.com",
+  "client_id": "100447545109294855167",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestore-cancer-predict%40submissionmlgc-chikaramanik.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
